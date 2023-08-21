@@ -1,0 +1,17 @@
+
+
+What is continuous, discrete or categorical data? Microarray data belongs to which?
+Discrete variables are countable in a finite amount of time. For example, you can count the change in your pocket. You can count the money in your bank account. You could also count the amount of money in everyone’s bank account. It might take you a long time to count that last item, but the point is — it’s still countable.
+
+Continuous Variables would (literally) take forever to count. In fact, you would get to “forever” and never finish counting them. For example, take age. You can’t count “age”. Why not? Because it would literally take forever. For example, you could be:
+25 years, 10 months, 2 days, 5 hours, 4 seconds, 4 milliseconds, 8 nanoseconds, 99 picosends…and so on. You could turn age into a discrete variable and then you could count it. For example:
+
+A person’s age in years.
+A baby’s age in months.
+Categorical variables A categorical variable has values that you can put into a countable number of distinct groups based on a characteristic.
+
+For example:
+
+The category “hair color” could contain the categorical variables “black,” “brown,” “blonde,” and “red.”
+The category “gender” could contain the categorical variables “Male”, “Female”, or “Other.”
+MicroArray data belongs to continuous variable.
